@@ -1,0 +1,33 @@
+@charset "UTF-8";
+html {
+    background-color: rgb(149, 248, 215);
+    font-family: 'Abhaya Libre', serif;
+    font-size: 14px;
+}
+body {
+    width: 600px;
+    margin: 10px auto;
+    background-color: #b0f173;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+h1{
+
+    margin: 0;
+    padding: 20px 0;
+    color: #9f4d00;
+    text-shadow: 1px 1px 1px black; 
+    font-size: 30px;
+    text-align: center;
+}
+p{ 
+    letter-spacing: 1px;
+    font-size: 16px;
+    padding: 0px;
+    margin: 0px;
+
+}
+img{
+    display: block;
+    margin: 0px auto;
+}
